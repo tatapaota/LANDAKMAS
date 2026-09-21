@@ -3,7 +3,7 @@
 Sistem Informasi Arsip untuk Dinas Arsip dan Perpustakaan Daerah Kabupaten Banyumas.
 Dibangun dengan Laravel 11 (PHP 8.2+), MySQL, dan `maatwebsite/excel` untuk import data arsip.
 
-## Struktur folder (penting — jangan diubah tanpa alasan)
+## Struktur folder 
 
 Struktur repo ini **bukan** struktur Laravel standar, karena project ini di-deploy
 di shared hosting (InfinityFree) yang tidak mendukung symlink. Susunannya:
